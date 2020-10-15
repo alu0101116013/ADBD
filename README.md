@@ -13,13 +13,13 @@ ___
 
 ### Índice
 
-1. [Práctica Fundación Torriani](#id1)
+1. [Práctica 1: Fundación Torriani](#id1)
 
 ___
 
 
-### Práctica Fundación Torriani <a name="id1"></a>
-Esta práctica consiste en el análisis de un supuesto práctico de la Fundación Torriani, de la cual se ha extraido información para diseñar una base de datos. Se han identificado diferentes ítems de información que resultan ser de relevancia para dicha fundación, así como fuentes de información fiables para su contrastes y la relación existente entre los distintos ítems definidos.
+### Práctica 1: Fundación Torriani <a name="id1"></a>
+Esta [práctica](https://github.com/alu0101116013/ADBD/blob/main/Pr%C3%A1ctica%201/README.md) consiste en el análisis de un supuesto práctico de la Fundación Torriani, de la cual se ha extraido información para diseñar una base de datos. Se han identificado diferentes ítems de información que resultan ser de relevancia para dicha fundación, así como fuentes de información fiables para su contrastes y la relación existente entre los distintos ítems definidos.
 
 
 ___
